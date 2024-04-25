@@ -1,4 +1,3 @@
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Intel_logo_%282020%2C_light_blue%29.svg/300px-Intel_logo_%282020%2C_light_blue%29.svg.png" width="50">](https://www.intel.com/)
 [<img src="https://www.intel.com/content/dam/develop/public/us/en/images/admin/oneapi-logo-rev-4x3-rwd.png" width="50">](https://www.intel.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-orange?logo=streamlit&logoColor=FFAF45)](https://streamlit.io/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
@@ -23,7 +22,7 @@ https://github.com/ArunKumar200510/MediChat-Anokha/assets/131733014/29268673-cba
 <a name="OCR"></a>
 ## Optical-Character-Recognition 📝🔠
 
-This code snippet showcases the utilization of **Intel's scikit and Keras** libraries for Optical Character Recognition (OCR). By efficiently processing images containing text, the system accurately extracts and recognizes characters, enabling the identification of medicines from prescriptions. Leveraging **Intel's CPU or XPU** ensures swift completion, typically in less than a minute, highlighting the advantages of optimized processing capabilities. Notably, running this code in **Google Colab** may exceed 15 minutes due to hardware limitations. ⚙️🔍💊💡
+This code snippet showcases the utilization of **scikit and Keras** libraries for Optical Character Recognition (OCR). By efficiently processing images containing text, the system accurately extracts and recognizes characters, enabling the identification of medicines from prescriptions. Leveraging **CPU or XPU** ensures swift completion, typically in less than a minute, highlighting the advantages of optimized processing capabilities. Notably, running this code in **Google Colab** may exceed 15 minutes due to hardware limitations. ⚙️🔍💊💡
 > Input Image
 
 ![Input](images/Prescription.png)
@@ -54,7 +53,7 @@ This code involves configuring a chatbot powered by the **Intel Neural chat 7b-v
 <a name="BTP"></a>
 ## Brain-Tumor-Prediction 🧠🛡️
 
-This code snippet illustrates the implementation of a **brain tumor prediction model using PyTorch**, enhanced by Intel's optimizations. Leveraging PyTorch's capabilities alongside Intel's enhancements, the system efficiently processes medical imaging data to predict and classify brain tumors accurately. This integration ensures optimized performance, facilitating swift completion of prediction tasks. Emphasizing the potential of AI in medical diagnostics, the model offers a promising avenue for early detection and intervention. 🧠🔬🔍🚀
+This code snippet illustrates the implementation of a **brain tumor prediction model using PyTorch**, enhanced by Deep learning framework. Leveraging PyTorch's capabilities, the system efficiently processes medical imaging data to predict and classify brain tumors accurately. This integration ensures optimized performance, facilitating swift completion of prediction tasks. Emphasizing the potential of AI in medical diagnostics, the model offers a promising avenue for early detection and intervention. 🧠🔬🔍🚀
 
 **Folder Link** : [Click Here](https://github.com/ArunKumar200510/MediChat-Anokha/tree/main/Brain-Tumor-Prediction)
 
@@ -67,16 +66,12 @@ This code snippet showcases an appointment booking system that utilizes **Stream
 ![appoint](images/appointment.jpeg)
 
 
-# Usage of Intel Developer Cloud 🌐💻
 
+Utilizing the available resources we harnessed the power of CPU and XPU to accelerate two critical components of our project: Human Detection and Text-to-Outfit Generation. 💻⚡
 
-Utilizing the resources provided by Intel Developer Cloud significantly expedited our AI model development and deployment processes. Specifically, we harnessed the power of Intel's CPU and XPU to accelerate two critical components of our project: Human Detection and Text-to-Outfit Generation. 💻⚡
+1.  **Optical-Character-Recognition 📝🔠:** The integration of  CPU and XPU capabilities, along with the utilization of oneDNN, has been instrumental in enhancing the efficiency of our Optical Character Recognition (OCR) model.. Additionally, the utilization of TensorFlow optimized for Intel architectures has further contributed to reducing the training time, resulting in significant improvements in the efficiency of our OCR model development process and enhancing overall performance. 🚀⚒️🔍
 
-1.  **Optical-Character-Recognition 📝🔠:** The integration of Intel's CPU and XPU capabilities, along with the utilization of oneDNN, has been instrumental in enhancing the efficiency of our Optical Character Recognition (OCR) model. Leveraging the high-performance computing infrastructure provided by Intel, we have significantly reduced the training time required for model optimization and experimentation. By optimizing computational tasks involved in training, oneDNN has contributed to this efficiency, allowing for faster processing of OCR tasks. Notably, a single epoch now takes only 2 seconds, showcasing the remarkable speedup achieved through the use of Intel's hardware resources and optimized software stack. Additionally, the utilization of TensorFlow optimized for Intel architectures has further contributed to reducing the training time, resulting in significant improvements in the efficiency of our OCR model development process and enhancing overall performance. 🚀⚒️🔍
-
-2.  **Chat-Bot 💬🤖  :** Our medicine information retrieval system entails intricate computational processes, especially during data extraction and analysis. Executing these tasks in Google Colab frequently led to extended processing durations due to resource constraints. Nonetheless, harnessing the processing power of Intel Developer Cloud's CPU and XPU resources significantly reduced the processing time. Leveraging Intel's infrastructure's parallel processing capabilities allowed us to swiftly retrieve medicine information, thereby enhancing the overall efficiency of our chatbot system. 💊💻🔍
-
-In essence, Intel Developer Cloud's cutting-edge CPU and XPU technologies equipped us with the computational prowess needed to hasten model training and inference procedures, thereby speeding up our project's development and deployment schedules. 🚀🕒
+2.  **Chat-Bot 💬🤖  :** Our medicine information retrieval system entails intricate computational processes, especially during data extraction and analysis. Executing these tasks in Google Colab frequently led to extended processing durations due to resource constraints. Nonetheless, harnessing the processing power of Intel Developer Cloud's CPU and XPU resources significantly reduced the processing time.Parallel processing capabilities allowed us to swiftly retrieve medicine information, thereby enhancing the overall efficiency of our chatbot system. 💊💻🔍
 
 # Flow Diagram 🔄📊
 
@@ -92,7 +87,7 @@ Leveraging the extracted medicine information, the Medication Chatbot provides c
 
 3.  **Brain Scan Upload 🧠📷:**
 
-Users upload MRI or scan images of their brain for tumor prediction. The system employs deep learning models, powered by Intel's optimized Torch, to analyze the images and provide accurate predictions regarding the presence of brain tumors.
+Users upload MRI or scan images of their brain for tumor prediction. The system employs deep learning models, powered by Torch, to analyze the images and provide accurate predictions regarding the presence of brain tumors.
 
 4.  **Brain Tumor Prediction 📈🔮:**
 
@@ -113,7 +108,6 @@ Users can conveniently schedule medical appointments through the system. The App
 3.  **Machine Learning Models:** Our application leverages machine learning models developed using PyTorch and TensorFlow for various intelligent features. These models are seamlessly integrated into our Streamlit application, providing functionalities such as medication information extraction, brain tumor prediction, and appointment booking with ease. 🤖⚙️
 
 4.  **Other Technologies:** In addition to Streamlit and machine learning models, our application utilizes Langchain for semantic understanding and efficient retrieval of medication information.
-              -   **Intel Developer Cloud:** Leveraging Intel's high-performance CPU and XPU capabilities, we accelerated model training and inference processes, reducing processing time and improving overall performance. ⚡💻
               -   **Langchain:** Our application also utilizes Langchain for semantic understanding and efficient retrieval of medication information. By leveraging Langchain's embeddings, we enhance the accuracy and relevance of medication-related responses provided by our chatbot. 💡🔍
 
 # What It Does 🤖🚀
@@ -129,7 +123,7 @@ Our application offers a comprehensive and user-friendly platform for individual
     
 3.  **Brain Tumor Prediction: 🧠🔍**
 
-  -  Users can upload MRI or scan images of their brain for tumor prediction. Our system employs deep learning models, powered by Intel's optimized Torch, to analyze the images and provide accurate predictions regarding the presence of brain tumors.
+  -  Users can upload MRI or scan images of their brain for tumor prediction. Our system employs deep learning models, powered by PyTorch, to analyze the images and provide accurate predictions regarding the presence of brain tumors.
     
 4.  **Efficient Appointment Booking: 📅✉️**
 
@@ -142,8 +136,8 @@ In summary, our application combines advanced medical technologies with a stream
 
   -  Developed the frontend using Streamlit for a user-friendly and interactive interface. 💻🔧
   -  Implemented the backend using Python and integrated it with MongoDB for data storage and retrieval. 🐍🚀📦
-  -  Utilized Intel's optimized Torch for deep learning-based brain tumor prediction, ensuring accurate and efficient analysis of MRI and scan images. 🧠🔍
-  -  Employed Intel's scikit and Keras libraries for Optical Character Recognition (OCR), enabling the extraction of medication information from prescription 
+  -  Utilized Torch for deep learning-based brain tumor prediction, ensuring accurate and efficient analysis of MRI and scan images. 🧠🔍
+  -  Employed scikit and Keras libraries for Optical Character Recognition (OCR), enabling the extraction of medication information from prescription 
      documents. 📄💊
   -  Integrated Langchain for semantic understanding and efficient retrieval of medication-related information, enhancing the accuracy and relevance of responses 
      provided by our chatbot. 💡🔍
