@@ -12,7 +12,7 @@ Our revolutionary chatbot transforms your medical experience by providing detail
 
 https://github.com/ArunKumar200510/MediChat-Anokha/assets/131733014/29268673-cba7-42e2-be4b-49353e5857fe
 
-# MediChat : Three Models🤖 and One Booking🗓️
+# Medi-Assist : Features 🤖🗓️
 
  1. [Optical-Character-Recognition 📝🔠](#OCR)
  2. [Chat-Bot 💬🤖](#Chat-Bot)
