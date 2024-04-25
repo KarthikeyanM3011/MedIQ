@@ -2,7 +2,7 @@
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%2334D058.svg?style=flat&logo=hugging-face&logoColor=white)](https://huggingface.co/)
 # Medi-Assist
-#Empower the Future with creative features
+# Empower the Future with creative features
 
 # MediChat AI: Transforming Healthcare with AI-Powered Medicine Info, Brain Tumor Prediction, and Appointment Booking! 💊🧠📅
 💊🔬 Step into the future of healthcare with **MediChat AI**! 💫
