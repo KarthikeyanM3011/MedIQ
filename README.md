@@ -29,7 +29,7 @@ This code snippet showcases the utilization of **scikit and Keras** libraries fo
 
 > Output
 
-![Output](images/ocr_op.jpeg)
+![cb1](images/1.png).
 
 **Folder Link** : [Click Here](https://github.com/KarthikeyanM3011/MedIQ/tree/main/Optical-Character-Recognition)
 
@@ -40,7 +40,6 @@ This code involves configuring a chatbot powered by the **Intel Neural chat 7b-v
 
 > Output of Chatbot
 
-![cb1](images/1.png)
 ![cb1](images/2.png)
 
 
