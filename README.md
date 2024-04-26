@@ -4,8 +4,8 @@
 # Medi-Assist
 # Empower the Future with creative features
 
-# MediChat AI: Transforming Healthcare with AI-Powered Medicine Info, Brain Tumor Prediction, and Appointment Booking! 💊🧠📅
-💊🔬 Step into the future of healthcare with **MediChat AI**! 💫
+# Medi-Assist: Transforming Healthcare with AI-Powered Medicine Info, Brain Tumor Prediction, and Appointment Booking! 💊🧠📅
+💊🔬 Step into the future of healthcare with **Medi-Assist**! 💫
 Our revolutionary chatbot transforms your medical experience by providing detailed information about prescribed medicines using cutting-edge OCR technology. With an impressive 93% accuracy rate, we also offer brain tumor predictions, ensuring you have access to vital health insights. Plus, our intuitive appointment booking feature simplifies scheduling doctor visits. Join the healthcare revolution with MediChat AI and experience a new era of seamless medical assistance. 🤖✨
 
 # Demonstration of the Project
