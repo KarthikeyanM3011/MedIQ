@@ -40,15 +40,22 @@ This code involves configuring a chatbot powered by the **Intel Neural chat 7b-v
 
 > Output of Chatbot
 
-![cb1](images/chatbot1.jpeg)
-![cb2](images/chatbot2.jpeg)
-![cb3](images/chatbot3.jpeg)
-![cb4](images/chatbot4.jpeg)
-![cb5](images/chatbot5.jpeg)
+![cb1](images/1.png)
+![cb1](images/2.png)
+
 
 **Hugging Face URL** : [Chat-Bot](https://huggingface.co/mistralai/Mixtral-8x7B-v0.1)
 
 **Folder Link** : [Click Here](https://github.com/KarthikeyanM3011/MedIQ/tree/main/Chat-Bot)
+
+
+> Output of Meditalk AI
+
+![cb1](images/3.png)
+![cb1](images/4.png)
+
+**Folder Link** : [Click Here](https://github.com/KarthikeyanM3011/MedIQ/tree/main/Medi-talk)
+
 
 <a name="BTP"></a>
 ## Brain-Tumor-Prediction 🧠🛡️
@@ -63,7 +70,7 @@ This code snippet illustrates the implementation of a **brain tumor prediction m
 This code snippet showcases an appointment booking system that utilizes **Streamlit** for the user interface and MongoDB for storing appointment data. By leveraging Streamlit's interactive features, users can easily book appointments, while **MongoDB** efficiently handles data storage and retrieval. The system provides a seamless experience for both users and administrators, allowing for streamlined appointment management. 📅💼📊🔒
 
 > Appointment Pdf
-![appoint](images/appointment.jpeg)
+![appoint](images/5.png)
 
 
 
