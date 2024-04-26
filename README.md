@@ -31,7 +31,7 @@ This code snippet showcases the utilization of **scikit and Keras** libraries fo
 
 ![Output](images/ocr_op.jpeg)
 
-**Folder Link** : [Click Here](https://github.com/KarthikeyanM3011/Medi-Assist/tree/main/Optical-Character-Recognition)
+**Folder Link** : [Click Here](https://github.com/KarthikeyanM3011/MedIQ/tree/main/Optical-Character-Recognition)
 
 <a name="Chat-Bot"></a>
 ## Chat-Bot 💬🤖
@@ -46,16 +46,16 @@ This code involves configuring a chatbot powered by the **Intel Neural chat 7b-v
 ![cb4](images/chatbot4.jpeg)
 ![cb5](images/chatbot5.jpeg)
 
-**Hugging Face URL** : [Chat-Bot](https://huggingface.co/Intel/neural-chat-7b-v3-1)
+**Hugging Face URL** : [Chat-Bot](https://huggingface.co/mistralai/Mixtral-8x7B-v0.1)
 
-**Folder Link** : [Click Here](https://github.com/KarthikeyanM3011/Medi-Assist/tree/main/Chat-Bot)
+**Folder Link** : [Click Here](https://github.com/KarthikeyanM3011/MedIQ/tree/main/Chat-Bot)
 
 <a name="BTP"></a>
 ## Brain-Tumor-Prediction 🧠🛡️
 
 This code snippet illustrates the implementation of a **brain tumor prediction model using PyTorch**, enhanced by Deep learning framework. Leveraging PyTorch's capabilities, the system efficiently processes medical imaging data to predict and classify brain tumors accurately. This integration ensures optimized performance, facilitating swift completion of prediction tasks. Emphasizing the potential of AI in medical diagnostics, the model offers a promising avenue for early detection and intervention. 🧠🔬🔍🚀
 
-**Folder Link** : [Click Here](https://github.com/KarthikeyanM3011/Medi-Assist/tree/main/Brain-Tumor-Prediction)
+**Folder Link** : [Click Here](https://github.com/KarthikeyanM3011/MedIQ/tree/main/Brain-Tumor-Prediction)
 
 <a name="appointment"></a>
 ## Appointment-Booking 🗓️✅
