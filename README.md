@@ -10,7 +10,7 @@ Our revolutionary chatbot transforms your medical experience by providing detail
 
 # Demonstration of the Project
 
-https://github.com/ArunKumar200510/MediChat-Anokha/assets/131733014/29268673-cba7-42e2-be4b-49353e5857fe
+https://github.com/KarthikeyanM3011/MedIQ/assets/133127501/9c31d139-5227-4987-ab12-68ce5fde23dd
 
 # Medi-Assist : Features 🤖🗓️
 
