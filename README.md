@@ -81,6 +81,8 @@ Utilizing the available resources we harnessed the power of CPU and XPU to accel
 
 # Flow Diagram 🔄📊
 
+![Work Flow](images/LORA.jpg)
+
 The workflow diagram visually depicts the sequential steps and interactions within our system. Each phase in the process plays a vital role in the system's functionality, guaranteeing a seamless and effective workflow. Let's explore the core elements:
 
 1.   **Prescription Input 📄🖊️:**
@@ -103,11 +105,11 @@ Based on the uploaded brain scan images, the system utilizes advanced algorithms
 
 Users can conveniently schedule medical appointments through the system. The Appointment module efficiently manages the booking process, allowing users to select preferred dates and times and generating appointment confirmations in PDF format for easy reference.
 
-
+# Time Line
 ![Timeline](images/Timeline.jpg)
 
 
-![Work Flow](images/LORA.jpg)
+
 
 # Built With 🛠️
 
