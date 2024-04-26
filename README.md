@@ -1,18 +1,18 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-orange?logo=streamlit&logoColor=FFAF45)](https://streamlit.io/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%2334D058.svg?style=flat&logo=hugging-face&logoColor=white)](https://huggingface.co/)
-# Medi-Assist
+# MedIQ
 # Empower the Future with creative features
 
-# Medi-Assist: Transforming Healthcare with AI-Powered Medicine Info, Brain Tumor Prediction, and Appointment Booking! 💊🧠📅
-💊🔬 Step into the future of healthcare with **Medi-Assist**! 💫
+# MedIQ: Transforming Healthcare with AI-Powered Medicine Info, Brain Tumor Prediction, and Appointment Booking! 💊🧠📅
+💊🔬 Step into the future of healthcare with **MedIQ**! 💫
 Our revolutionary chatbot transforms your medical experience by providing detailed information about prescribed medicines using cutting-edge OCR technology. With an impressive 93% accuracy rate, we also offer brain tumor predictions, ensuring you have access to vital health insights. Plus, our intuitive appointment booking feature simplifies scheduling doctor visits. Join the healthcare revolution with MediChat AI and experience a new era of seamless medical assistance. 🤖✨
 
 # Demonstration of the Project
 
 https://github.com/KarthikeyanM3011/MedIQ/assets/133127501/9c31d139-5227-4987-ab12-68ce5fde23dd
 
-# Medi-Assist : Features 🤖🗓️
+# MedIQ : Features 🤖🗓️
 
  1. [Optical-Character-Recognition 📝🔠](#OCR)
  2. [Chat-Bot 💬🤖](#Chat-Bot)
