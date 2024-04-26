@@ -73,7 +73,7 @@ This code snippet showcases an appointment booking system that utilizes **Stream
 
 
 
-Utilizing the available resources we harnessed the power of CPU and XPU to accelerate two critical components of our project: Human Detection and Text-to-Outfit Generation. 💻⚡
+Utilizing the available resources we harnessed the power of CPU and XPU to accelerate two critical components of our project: 
 
 1.  **Optical-Character-Recognition 📝🔠:** The integration of  CPU and XPU capabilities, along with the utilization of oneDNN, has been instrumental in enhancing the efficiency of our Optical Character Recognition (OCR) model.. Additionally, the utilization of TensorFlow has further contributed to reducing the training time, resulting in significant improvements in the efficiency of our OCR model development process and enhancing overall performance. 🚀⚒️🔍
 
