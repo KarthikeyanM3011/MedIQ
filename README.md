@@ -25,7 +25,7 @@ https://github.com/ArunKumar200510/MediChat-Anokha/assets/131733014/29268673-cba
 This code snippet showcases the utilization of **scikit and Keras** libraries for Optical Character Recognition (OCR). By efficiently processing images containing text, the system accurately extracts and recognizes characters, enabling the identification of medicines from prescriptions. Leveraging **CPU or XPU** ensures swift completion, typically in less than a minute, highlighting the advantages of optimized processing capabilities. Notably, running this code in **Google Colab** may exceed 15 minutes due to hardware limitations. ⚙️🔍💊💡
 > Input Image
 
-![Input](images/1A.png)
+![Input](images/1A.jpg)
 
 > Output
 
