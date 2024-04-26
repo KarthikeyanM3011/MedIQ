@@ -72,13 +72,7 @@ This code snippet showcases an appointment booking system that utilizes **Stream
 ![appoint](images/5.png)
 
 
-
-Utilizing the available resources we harnessed the power of CPU and XPU to accelerate two critical components of our project: 
-
-1.  **Optical-Character-Recognition 📝🔠:** The integration of  CPU and XPU capabilities, along with the utilization of oneDNN, has been instrumental in enhancing the efficiency of our Optical Character Recognition (OCR) model.. Additionally, the utilization of TensorFlow has further contributed to reducing the training time, resulting in significant improvements in the efficiency of our OCR model development process and enhancing overall performance. 🚀⚒️🔍
-
-2.  **Chat-Bot 💬🤖  :** Our medicine information retrieval system entails intricate computational processes, especially during data extraction and analysis. Executing these tasks in Google Colab frequently led to extended processing durations due to resource constraints. Nonetheless, harnessing the processing power of Cloud's CPU and XPU resources significantly reduced the processing time.Parallel processing capabilities allowed us to swiftly retrieve medicine information, thereby enhancing the overall efficiency of our chatbot system. 💊💻🔍
-
+``
 # Flow Diagram 🔄📊
 
 ![Work Flow](images/LORA.jpg)
