@@ -36,7 +36,7 @@ This code snippet showcases the utilization of **scikit and Keras** libraries fo
 <a name="Chat-Bot"></a>
 ## Chat-Bot 💬🤖
 
-This code involves configuring a chatbot powered by the **Intel Neural chat 7b-v3-1**, fine-tuned with a specialized dataset. Utilizing transformers and Langchain embeddings, the chatbot provides essential information on medication usage, contraindications, dosage instructions, general properties, and warnings. It encompasses installing dependencies, loading the dataset, configuring the Mistral 7B model for language generation, and setting up Langchain embeddings for semantic understanding. The chatbot's query engine is then initialized to facilitate inquiries about medications, ensuring accurate responses and efficient performance. 🤖💊🔍📋
+This code involves configuring a chatbot powered by the **Mixtral 7b-v0-1**, fine-tuned with a specialized dataset. Utilizing transformers and Langchain embeddings, the chatbot provides essential information on medication usage, contraindications, dosage instructions, general properties, and warnings. It encompasses installing dependencies, loading the dataset, configuring the Mistral 7B model for language generation, and setting up Langchain embeddings for semantic understanding. The chatbot's query engine is then initialized to facilitate inquiries about medications, ensuring accurate responses and efficient performance. 🤖💊🔍📋
 
 > Output of Chatbot
 
@@ -75,9 +75,9 @@ This code snippet showcases an appointment booking system that utilizes **Stream
 
 Utilizing the available resources we harnessed the power of CPU and XPU to accelerate two critical components of our project: Human Detection and Text-to-Outfit Generation. 💻⚡
 
-1.  **Optical-Character-Recognition 📝🔠:** The integration of  CPU and XPU capabilities, along with the utilization of oneDNN, has been instrumental in enhancing the efficiency of our Optical Character Recognition (OCR) model.. Additionally, the utilization of TensorFlow optimized for Intel architectures has further contributed to reducing the training time, resulting in significant improvements in the efficiency of our OCR model development process and enhancing overall performance. 🚀⚒️🔍
+1.  **Optical-Character-Recognition 📝🔠:** The integration of  CPU and XPU capabilities, along with the utilization of oneDNN, has been instrumental in enhancing the efficiency of our Optical Character Recognition (OCR) model.. Additionally, the utilization of TensorFlow has further contributed to reducing the training time, resulting in significant improvements in the efficiency of our OCR model development process and enhancing overall performance. 🚀⚒️🔍
 
-2.  **Chat-Bot 💬🤖  :** Our medicine information retrieval system entails intricate computational processes, especially during data extraction and analysis. Executing these tasks in Google Colab frequently led to extended processing durations due to resource constraints. Nonetheless, harnessing the processing power of Intel Developer Cloud's CPU and XPU resources significantly reduced the processing time.Parallel processing capabilities allowed us to swiftly retrieve medicine information, thereby enhancing the overall efficiency of our chatbot system. 💊💻🔍
+2.  **Chat-Bot 💬🤖  :** Our medicine information retrieval system entails intricate computational processes, especially during data extraction and analysis. Executing these tasks in Google Colab frequently led to extended processing durations due to resource constraints. Nonetheless, harnessing the processing power of Cloud's CPU and XPU resources significantly reduced the processing time.Parallel processing capabilities allowed us to swiftly retrieve medicine information, thereby enhancing the overall efficiency of our chatbot system. 💊💻🔍
 
 # Flow Diagram 🔄📊
 
