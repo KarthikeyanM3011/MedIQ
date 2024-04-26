@@ -8,6 +8,8 @@
 💊🔬 Step into the future of healthcare with **MedIQ**! 💫
 Our revolutionary chatbot transforms your medical experience by providing detailed information about prescribed medicines using cutting-edge OCR technology. With an impressive 93% accuracy rate, we also offer brain tumor predictions, ensuring you have access to vital health insights. Plus, our intuitive appointment booking feature simplifies scheduling doctor visits. Join the healthcare revolution with MediChat AI and experience a new era of seamless medical assistance. 🤖✨
 
+
+
 # Demonstration of the Project
 
 https://github.com/KarthikeyanM3011/MedIQ/assets/133127501/9c31d139-5227-4987-ab12-68ce5fde23dd
@@ -153,6 +155,7 @@ In summary, our application combines advanced medical technologies with a stream
  - Optical-Character-Recognition : [OCR 🤖📄](https://keras-ocr.readthedocs.io/en/latest/)
  - Chat-Bot : [Kaggle 📄💬](https://www.kaggle.com/datasets/shudhanshusingh/250k-medicines-usage-side-effects-and-substitutes)
  - Brain-Tumor-Identification : [Figshare 🛍️📸](https://figshare.com/articles/dataset/brain_tumor_dataset/1512427)]
+ - **PPT** : [Click to view PPT⭐️💡](https://docs.google.com/presentation/d/1F43jQ3UbMSH0VrUiyn2Zo2Xrbbf_CFnI/edit?usp=drive_link&ouid=113703443231799533329&rtpof=true&sd=true)
 
 # Revolutionizing Healthcare 🏥💻
 
