@@ -103,7 +103,11 @@ Based on the uploaded brain scan images, the system utilizes advanced algorithms
 
 Users can conveniently schedule medical appointments through the system. The Appointment module efficiently manages the booking process, allowing users to select preferred dates and times and generating appointment confirmations in PDF format for easy reference.
 
-![Work Flow](images/Flow_Chart.jpg)
+
+![Timeline](images/Timeline.jpg)
+
+
+![Work Flow](images/LORA.jpg)
 
 # Built With 🛠️
 
